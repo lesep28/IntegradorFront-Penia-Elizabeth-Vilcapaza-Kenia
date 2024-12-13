@@ -1,4 +1,4 @@
-const apiURL = "http://localhost:8080";
+const apiURL = "https://integradorback-penia-elizabeth-vilcapaza.onrender.com";
 
 // Obtener la referencia a la tabla y al modal
 const tableBody = document.querySelector("#pacienteTable tbody");
